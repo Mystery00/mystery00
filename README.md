@@ -10,3 +10,5 @@ I’m Mystery0. I’m a student living in China. I am a fan of Android, technolo
 ### Our Team
 - [酱油工作室](https://janyostudio.mystery0.app)(Under construction)
 
+![Mystery00's github stats](https://github-readme-stats.vercel.app/api?username=Mystery00&show_icons=true)
+https://fx.service.tcloudbase.com/api?username=Mystery00&show_icons=true
