@@ -9,11 +9,6 @@
 
 - 📫 How to reach me **mystery0dyl520@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mystery020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mystery020" height="30" width="40" /></a>
 <a href="/https://blog.mystery0.vip/atom.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.mystery0.vip/atom.xml" height="30" width="40" /></a>
@@ -25,7 +20,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mystery00&show_icons=true&locale=en&layout=compact" alt="mystery00" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mystery00&show_icons=true&locale=en" alt="mystery00" /></p>
-# Blog posts
 
+
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
