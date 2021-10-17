@@ -25,3 +25,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mystery00&show_icons=true&locale=en&layout=compact" alt="mystery00" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mystery00&show_icons=true&locale=en" alt="mystery00" /></p>
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
