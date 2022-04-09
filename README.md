@@ -22,6 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mystery00&show_icons=true&locale=en" alt="mystery00" /></p>
 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!--START_SECTION:my_github-->
+<!--END_SECTION:my_github-->
