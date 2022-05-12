@@ -7,7 +7,7 @@
 <p>
 <img src="https://komarev.com/ghpvc/?username=mystery00&label=Profile%20views&color=0e75b6&style=flat" alt="mystery00" />
 <a href="https://twitter.com/mystery020" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mystery020" height="30" width="40" /></a>
-<a href="/https://blog.mystery0.vip/atom.xml" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.mystery0.vip/atom.xml" height="30" width="40" /></a>
+<a href="/https://blog.mystery0.vip/atom.xml" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.mystery0.vip/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3>Languages and Tools:</h3>
