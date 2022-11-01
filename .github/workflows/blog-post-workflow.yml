@@ -13,4 +13,5 @@ jobs:
               with: 
                 max_post_count: "4"
                 feed_list: "https://blog.mystery0.vip/rss.xml"
-                retry_count: 10
+                retry_count: 5
+                accept_header: "application/xml"
