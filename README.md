@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [时间的声音 - RAiNBOW计划](https://blog.mystery0.vip/archives/时间的声音-rainbow计划)
+- [K3s删除处于Terminating状态的命名空间以及longhorn卸载踩坑](https://blog.mystery0.vip/archives/k3s-remove-terminating-ns-and-uninstall-longhorn)
 - [看看海 - RAiNBOW计划](https://blog.mystery0.vip/archives/看看海-rainbow计划)
 - [cloud-torrent使用nginx反向代理后/sync接口问题记录](https://blog.mystery0.vip/archives/cloud-torrent-nginx-sync-record)
 - [GoRss2Webhook开发记录 #2 Store模块开发](https://blog.mystery0.vip/archives/gorss2webhook-dev2)
-- [GoRss2Webhook开发记录 #1 背景与模块设计](https://blog.mystery0.vip/archives/gorss2webhook-dev1)
-- [绿海少年 - RAiNBOW计划](https://blog.mystery0.vip/archives/绿海少年-rainbow计划)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
