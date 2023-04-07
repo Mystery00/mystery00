@@ -14,9 +14,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [SpringBoot项目上报JVM指标数据到Nightingale](https://blog.mystery0.vip/archives/springbootexportjvmmetricstonightingale)
-- [时间的声音 - RAiNBOW计划](https://blog.mystery0.vip/archives/时间的声音-rainbow计划)
+- [时间的声音 - RAiNBOW计划](https://blog.mystery0.vip/archives/%E6%97%B6%E9%97%B4%E7%9A%84%E5%A3%B0%E9%9F%B3-rainbow%E8%AE%A1%E5%88%92)
 - [K3s删除处于Terminating状态的命名空间以及longhorn卸载踩坑](https://blog.mystery0.vip/archives/k3s-remove-terminating-ns-and-uninstall-longhorn)
-- [看看海 - RAiNBOW计划](https://blog.mystery0.vip/archives/看看海-rainbow计划)
+- [看看海 - RAiNBOW计划](https://blog.mystery0.vip/archives/%E7%9C%8B%E7%9C%8B%E6%B5%B7-rainbow%E8%AE%A1%E5%88%92)
 - [cloud-torrent使用nginx反向代理后/sync接口问题记录](https://blog.mystery0.vip/archives/cloud-torrent-nginx-sync-record)
 <!-- BLOG-POST-LIST:END -->
 
