@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [KeyCloak添加CAS协议支持](/archives/keycloak_use_cas)
 - [我收到了召唤，我选择……](/archives/answer_the_recall)
 - [Github SSH Config设置](/archives/github-ssh-config)
 - [协程与线程：一次深入探讨](/archives/coroutine_and_thread)
 - [SpringBoot项目上报JVM指标数据到Nightingale](/archives/springbootexportjvmmetricstonightingale)
-- [时间的声音 - RAiNBOW计划](/archives/%E6%97%B6%E9%97%B4%E7%9A%84%E5%A3%B0%E9%9F%B3-rainbow%E8%AE%A1%E5%88%92)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
