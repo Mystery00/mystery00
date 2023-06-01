@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [KeyCloak添加CAS协议支持](/archives/keycloak_use_cas)
-- [我收到了召唤，我选择……](/archives/answer_the_recall)
-- [Github SSH Config设置](/archives/github-ssh-config)
-- [协程与线程：一次深入探讨](/archives/coroutine_and_thread)
-- [SpringBoot项目上报JVM指标数据到Nightingale](/archives/springbootexportjvmmetricstonightingale)
+- [KeyCloak添加CAS协议支持](http://blog.mystery0.vip/archives/keycloak_use_cas)
+- [我收到了召唤，我选择……](http://blog.mystery0.vip/archives/answer_the_recall)
+- [Github SSH Config设置](http://blog.mystery0.vip/archives/github-ssh-config)
+- [协程与线程：一次深入探讨](http://blog.mystery0.vip/archives/coroutine_and_thread)
+- [SpringBoot项目上报JVM指标数据到Nightingale](http://blog.mystery0.vip/archives/springbootexportjvmmetricstonightingale)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
