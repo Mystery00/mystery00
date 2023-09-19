@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Android 原生、类原生 时间同步问题修复](http://blog.mystery0.vip/archives/android_ntp_fix)
 - [JVM cpu问题分析步骤](http://blog.mystery0.vip/archives/jvm-cpuwen-ti-fen-xi-bu-zou)
 - [KeyCloak添加CAS协议支持](http://blog.mystery0.vip/archives/keycloak_use_cas)
 - [Github SSH Config设置](http://blog.mystery0.vip/archives/github-ssh-config)
 - [协程与线程：一次深入探讨](http://blog.mystery0.vip/archives/coroutine_and_thread)
-- [SpringBoot项目上报JVM指标数据到Nightingale](http://blog.mystery0.vip/archives/springbootexportjvmmetricstonightingale)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
