@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare Worker 反代 TG Bot API](https://blog.mystery0.vip/archives/cloudflare_worker_proxy_telegram)
 - [Minecraft 使用指令设置死亡记分板](https://blog.mystery0.vip/archives/minecraft-death-board)
 - [我个人这些年观看ow比赛心路历程](https://blog.mystery0.vip/archives/goodbye_overwatch_league)
 - [Android 原生、类原生 时间同步问题修复](https://blog.mystery0.vip/archives/android_ntp_fix)
 - [JVM cpu问题分析步骤](https://blog.mystery0.vip/archives/jvm-cpuwen-ti-fen-xi-bu-zou)
-- [KeyCloak添加CAS协议支持](https://blog.mystery0.vip/archives/keycloak_use_cas)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
