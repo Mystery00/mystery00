@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [倒序修改时间音乐播放列表生成脚本](https://blog.mystery0.vip/archives/generate_m3u8_order_by_modify_time)
 - [Umami 嵌入到iframe中无法打开的问题记录](https://blog.mystery0.vip/archives/umami_in_iframe)
 - [Cloudflare Worker 反代 TG Bot API](https://blog.mystery0.vip/archives/cloudflare_worker_proxy_telegram)
 - [Minecraft 使用指令设置死亡记分板](https://blog.mystery0.vip/archives/minecraft-death-board)
 - [我个人这些年观看ow比赛心路历程](https://blog.mystery0.vip/archives/goodbye_overwatch_league)
-- [Android 原生、类原生 时间同步问题修复](https://blog.mystery0.vip/archives/android_ntp_fix)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
