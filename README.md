@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [将 go-jasypt 编译成静态库给 C++ 调用](https://blog.mystery0.vip/archives/compile_go_jasypt_to_c_plus_plus)
 - [OpenWrt 设置AdGuardHome之后，DHCP没有dns服务器问题修复](https://blog.mystery0.vip/archives/openwrt_adguard_home_dns_fix)
 - [音乐 - DM DOKURO-sanctuary](https://blog.mystery0.vip/archives/terraria_bgm_sanctuary)
 - [k3s 磁盘空间不足 清理相关命令记录](https://blog.mystery0.vip/archives/k3s-disk-clean-log)
 - [倒序修改时间音乐播放列表生成脚本](https://blog.mystery0.vip/archives/generate_m3u8_order_by_modify_time)
-- [Umami 嵌入到iframe中无法打开的问题记录](https://blog.mystery0.vip/archives/umami_in_iframe)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
