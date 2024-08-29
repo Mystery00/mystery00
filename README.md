@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux常用命令备份](https://blog.mystery0.vip/archives/linux_script_backup)
 - [神通数据库 Method com/oscar/jdbc/OscarResultSetV2.getObject is abstract](https://blog.mystery0.vip/archives/java_connect_oscar_db_failed)
 - [将 go-jasypt 编译成静态库给 C++ 调用](https://blog.mystery0.vip/archives/compile_go_jasypt_to_c_plus_plus)
 - [OpenWrt 设置AdGuardHome之后，DHCP没有dns服务器问题修复](https://blog.mystery0.vip/archives/openwrt_adguard_home_dns_fix)
 - [k3s 磁盘空间不足 清理相关命令记录](https://blog.mystery0.vip/archives/k3s-disk-clean-log)
-- [倒序修改时间音乐播放列表生成脚本](https://blog.mystery0.vip/archives/generate_m3u8_order_by_modify_time)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
