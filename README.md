@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [N9E与categraf docker镜像制作记录](https://blog.mystery0.vip/archives/build_docker_image_for_n9e_categraf)
 - [alpine镜像发送ssl请求报错踩坑记录](https://blog.mystery0.vip/archives/jdk8_alpine_docker_image_ssl_failed)
 - [rsshub.mystery0.app 下线通知](https://blog.mystery0.vip/archives/rsshub_shutdown)
 - [Linux常用命令备份](https://blog.mystery0.vip/archives/linux_script_backup)
 - [神通数据库 Method com/oscar/jdbc/OscarResultSetV2.getObject is abstract](https://blog.mystery0.vip/archives/java_connect_oscar_db_failed)
-- [将 go-jasypt 编译成静态库给 C++ 调用](https://blog.mystery0.vip/archives/compile_go_jasypt_to_c_plus_plus)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
