@@ -1,7 +1,24 @@
-<h1 align="center">Hi 👋, I'm Mystery0</h1>
-<h3 align="center">a Android/Spring/Golang developer 👨‍💻 working since 2019 🚀</h3>
-
+# Hi there, I'm Mystery00! 👋
+Welcome to my GitHub profile! I'm passionate about software development and love working on exciting projects.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mystery00&label=Profile%20views&color=0e75b6&style=flat" alt="mystery00" /> </p>
+
+# 🔭 My Projects
+Here are some of the repositories I have been working on:
+
+- XhuTimetable
+    - A comprehensive timetable management application with a modern interface for seamless schedule tracking.
+- xhu_timetable_ios
+    - The iOS version of the XhuTimetable app, designed to provide a smooth experience on Apple devices.
+- go-jasypt
+    - A Golang implementation of Jasypt for strong encryption and decryption solutions in your projects.
+- telegram-channel-publisher
+    - A tool to publish posts from Telegram channels to Halo Moment, automating content sharing.
+
+# 🌱 What I'm Currently Learning
+I'm continuously expanding my knowledge in the following areas:
+
+- DevOps practices and tools
+- Advanced Kotlin programming
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mystery00" alt="mystery00" /></a> </p>
 
@@ -19,15 +36,6 @@
 - [Linux常用命令备份](https://blog.mystery0.vip/archives/linux_script_backup)
 - [神通数据库 Method com/oscar/jdbc/OscarResultSetV2.getObject is abstract](https://blog.mystery0.vip/archives/java_connect_oscar_db_failed)
 <!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mystery020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mystery020" height="30" width="40" /></a>
-<a href="/https://blog.mystery0.vip/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.mystery0.vip/rss.xml" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.mystery0.app/api/top-langs/?username=mystery00&show_icons=true&locale=cn&layout=donut&hide=html,c,javascript&langs_count=8" alt="mystery00" /></p>
 
