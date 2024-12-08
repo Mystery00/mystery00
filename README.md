@@ -24,7 +24,7 @@ I'm continuously expanding my knowledge in the following areas:
 - 📫 How to reach me **mystery0dyl520@gmail.com**
 - ⚡ Fun fact **I use tabs over spaces**
 
-# Blogs posts
+# ✍️ Blogs Posts
 <!-- BLOG-POST-LIST:START -->
 - [N9E与categraf docker镜像制作记录](https://blog.mystery0.vip/archives/build_docker_image_for_n9e_categraf)
 - [alpine镜像发送ssl请求报错踩坑记录](https://blog.mystery0.vip/archives/jdk8_alpine_docker_image_ssl_failed)
