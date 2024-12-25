@@ -36,4 +36,4 @@ I'm continuously expanding my knowledge in the following areas:
 # GitHub
 <p><img src="https://github-readme-stats.mystery0.app/api/top-langs/?username=mystery00&show_icons=true&locale=cn&layout=donut&hide=html,c,javascript&langs_count=8" alt="mystery00" /></p>
 <p><img src="https://github-readme-stats.mystery0.app/api?username=mystery00&show_icons=true&locale=cn" alt="mystery00" /></p>
-<p><img src="https://streak-stats.demolab.com/?user=mystery00&locale=zh_Hans&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></p>
+<p><img src="[https://streak-stats.demolab.com/?user=mystery00&locale=zh_Hans&date_format=%5BY.%5Dn.j](https://github-readme-streak-stats.mystery0.app?user=mystery00&locale=zh_Hans&date_format=%5BY.%5Dn.j)" alt="GitHub Streak" /></p>
