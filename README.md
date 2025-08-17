@@ -7,8 +7,6 @@ Here are some of the repositories I have been working on:
 
 - [XhuTimetable](https://github.com/Mystery00/XhuTimetable)
     - A comprehensive timetable management application with a modern interface for seamless schedule tracking.
-- [xhu_timetable_ios](https://github.com/Mystery00/xhu_timetable_ios)
-    - The iOS version of the XhuTimetable app, designed to provide a smooth experience on Apple devices.
 - [go-jasypt](https://github.com/Mystery00/go-jasypt)
     - A Golang implementation of Jasypt for strong encryption and decryption solutions in your projects.
 - [telegram-channel-publisher](https://github.com/Mystery00/telegram-channel-publisher)
