@@ -24,11 +24,11 @@ I'm continuously expanding my knowledge in the following areas:
 
 # ✍️ Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux 和 k3s 磁盘空间清理实用命令汇总](https://blog.mystery0.vip/archives/linux-script-backup)
 - [为何我的环境变量覆盖了配置文件](https://blog.mystery0.vip/archives/why_springboot_use_wrong_config)
 - [Quick Share For Windows 安装失败问题解决方案](https://blog.mystery0.vip/archives/quick-share-for-windows-install-failed)
 - [logging.config 和 logback.configurationFile 的区别](https://blog.mystery0.vip/archives/how_to_config_logback_correctly)
 - [N9E与categraf docker镜像制作记录](https://blog.mystery0.vip/archives/build_docker_image_for_n9e_categraf)
-- [alpine镜像发送ssl请求报错踩坑记录](https://blog.mystery0.vip/archives/jdk8_alpine_docker_image_ssl_failed)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub
