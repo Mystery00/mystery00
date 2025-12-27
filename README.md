@@ -7,6 +7,10 @@ Here are some of the repositories I have been working on:
 
 - [XhuTimetable](https://github.com/Mystery00/XhuTimetable)
     - A comprehensive timetable management application with a modern interface for seamless schedule tracking.
+- [TurboIMS](https://github.com/Mystery00/TurboIMS)
+    - Enable VoLTE, VoWiFi, and other IMS features on Google Pixel devices. 
+- [PixelMeter](https://github.com/Mystery00/PixelMeter)
+    - Pixel Meter is a network speed monitor application designed specifically for Google Pixel and native Android devices. 
 - [go-jasypt](https://github.com/Mystery00/go-jasypt)
     - A Golang implementation of Jasypt for strong encryption and decryption solutions in your projects.
 - [telegram-channel-publisher](https://github.com/Mystery00/telegram-channel-publisher)
