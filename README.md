@@ -10,7 +10,7 @@ Android 开发者 / Go 语言爱好者 / 原生 Android 生态探索者。热衷
 
 ### 📱 Android & Pixel 生态
 - **[PixelMeter](https://github.com/Mystery00/PixelMeter)** / **Pixel Pulse**
-  - 为 Google Pixel 和原生 Android 量身定制的实时网速监控工具，追求极致的系统原生感。
+  - 为 Google Pixel 和原生 Android 量身定制的实时网速监控工具。
 - **[Pixel Telo](https://github.com/Mystery00/PixelTelo)**
   - 基于 `CallScreeningService` 开发的 Pixel 专属来电过滤与屏蔽工具。
 - **[TurboIMS](https://github.com/Mystery00/TurboIMS)**
@@ -30,7 +30,7 @@ Android 开发者 / Go 语言爱好者 / 原生 Android 生态探索者。热衷
 
 - **Languages:** Kotlin (Jetpack Compose), Go, Java
 - **Infrastructure:** DevOps (Docker/K3s), 嵌入式数据库应用 (dqlite, rqlite)
-- **Currently Learning:** 高级 Kotlin 协程、云原生自动化部署。
+- **Currently Learning:** 高级 Kotlin 编程、DevOps 自动化实践。
 
 ---
 
@@ -42,7 +42,7 @@ Android 开发者 / Go 语言爱好者 / 原生 Android 生态探索者。热衷
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mystery00&theme=transparent&stroke=4285F4&fire=4285F4&ring=4285F4&currStreakNum=4285F4&sideNums=777&sideLabels=777&dates=777" />
+  <img height="180em" src="https://github-readme-streak-stats.mystery0.app/?user=mystery00&theme=transparent&stroke=4285F4&fire=4285F4&ring=4285F4&currStreakNum=4285F4&sideNums=777&sideLabels=777&dates=777&hide_border=true" />
 </p>
 
 ---
