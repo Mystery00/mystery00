@@ -50,5 +50,5 @@ Android 开发者 / Go 语言爱好者 / 原生 Android 生态探索者。热衷
 ## 📫 如何找到我
 
 - **Email:** mystery0dyl520@gmail.com
-- **Blog:** [blig.mystery0.vip](https://blog.mystery0.vip)
+- **Blog:** [blog.mystery0.vip](https://blog.mystery0.vip)
 - **⚡ Fun fact:** 坚持 **Tabs over Spaces** 的代码美学。
