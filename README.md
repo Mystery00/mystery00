@@ -1,41 +1,54 @@
 # Hi there, I'm Mystery00! 👋
-Welcome to my GitHub profile! I'm passionate about software development and love working on exciting projects.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mystery00&label=Profile%20views&color=0e75b6&style=flat" alt="mystery00" /> </p>
 
-# 🔭 My Projects
-Here are some of the repositories I have been working on:
+Android 开发者 / Go 语言爱好者 / 原生 Android 生态探索者。热衷于在移动端与高效后端服务之间架起桥梁。
 
-- [XhuTimetable](https://github.com/Mystery00/XhuTimetable)
-    - A comprehensive timetable management application with a modern interface for seamless schedule tracking.
-- [TurboIMS](https://github.com/Mystery00/TurboIMS)
-    - Enable VoLTE, VoWiFi, and other IMS features on Google Pixel devices. 
-- [PixelMeter](https://github.com/Mystery00/PixelMeter)
-    - Pixel Meter is a network speed monitor application designed specifically for Google Pixel and native Android devices. 
-- [go-jasypt](https://github.com/Mystery00/go-jasypt)
-    - A Golang implementation of Jasypt for strong encryption and decryption solutions in your projects.
-- [telegram-channel-publisher](https://github.com/Mystery00/telegram-channel-publisher)
-    - A tool to publish posts from Telegram channels to Halo Moment, automating content sharing.
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mystery00&label=Profile%20views&color=4285F4&style=flat-square" alt="mystery00" />
+</p>
 
-# 🌱 What I'm Currently Learning
-I'm continuously expanding my knowledge in the following areas:
+## 🚀 正在进行与持续维护的项目
 
-- DevOps practices and tools
-- Advanced Kotlin programming
+### 📱 Android & Pixel 生态
+- **[PixelMeter](https://github.com/Mystery00/PixelMeter)** / **Pixel Pulse**
+  - 为 Google Pixel 和原生 Android 量身定制的实时网速监控工具，追求极致的系统原生感。
+- **[Pixel Telo](https://github.com/Mystery00/PixelTelo)**
+  - 基于 `CallScreeningService` 开发的 Pixel 专属来电过滤与屏蔽工具。
+- **[TurboIMS](https://github.com/Mystery00/TurboIMS)**
+  - 释放 Pixel 潜力：开启 VoLTE、VoWiFi 及其他 IMS 特性。
+- **[XhuTimetable](https://github.com/Mystery00/XhuTimetable)**
+  - 采用现代 UI 架构的高校课表管理应用。
 
-- 📝 I regularly write articles on [https://blog.mystery0.vip](https://blog.mystery0.vip)
-- 📫 How to reach me **mystery0dyl520@gmail.com**
-- ⚡ Fun fact **I use tabs over spaces**
+### ⚙️ 后端、工具与加密
+- **[go-jasypt](https://github.com/Mystery00/go-jasypt)**
+  - Jasypt 的 Golang 移植版本，为 Go 项目提供 Java 兼容的强加密方案。
+- **[telegram-channel-publisher](https://github.com/Mystery00/telegram-channel-publisher)**
+  - 自动化内容同步工具，将 Telegram 频道内容推送到 Halo 等平台。
 
-# ✍️ Blogs Posts
-<!-- BLOG-POST-LIST:START -->
-- [记录一下使用AntiGravity压榨AI开发一个Android APP的事情](https://blog.mystery0.vip/archives/ai_power_for_pixel_meter)
-- [Linux 和 k3s 磁盘空间清理实用命令汇总](https://blog.mystery0.vip/archives/linux-script-backup)
-- [为何我的环境变量覆盖了配置文件](https://blog.mystery0.vip/archives/why_springboot_use_wrong_config)
-- [Quick Share For Windows 安装失败问题解决方案](https://blog.mystery0.vip/archives/quick-share-for-windows-install-failed)
-- [logging.config 和 logback.configurationFile 的区别](https://blog.mystery0.vip/archives/how_to_config_logback_correctly)
-<!-- BLOG-POST-LIST:END -->
+---
 
-# GitHub
-<p><img src="https://github-readme-stats.mystery0.app/api/top-langs/?username=mystery00&show_icons=true&locale=cn&layout=donut&hide=html,c,javascript&langs_count=8" alt="mystery00" /></p>
-<p><img src="https://github-readme-stats.mystery0.app/api?username=mystery00&show_icons=true&locale=cn" alt="mystery00" /></p>
-<p><img src="https://github-readme-streak-stats.mystery0.app/?user=mystery00&locale=zh_Hans&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></p>
+## 🛠 技能栈 & 学习中
+
+- **Languages:** Kotlin (Jetpack Compose), Go, Java
+- **Infrastructure:** DevOps (Docker/K3s), 嵌入式数据库应用 (dqlite, rqlite)
+- **Currently Learning:** 高级 Kotlin 协程、云原生自动化部署。
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.mystery0.app/api?username=mystery00&show_icons=true&theme=transparent&title_color=4285F4&icon_color=4285F4&text_color=777&bg_color=0,00000000" />
+  <img height="180em" src="https://github-readme-stats.mystery0.app/api/top-langs/?username=mystery00&layout=compact&langs_count=8&theme=transparent&title_color=4285F4&icon_color=4285F4&text_color=777&bg_color=0,00000000&hide=html,javascript,c" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mystery00&theme=transparent&stroke=4285F4&fire=4285F4&ring=4285F4&currStreakNum=4285F4&sideNums=777&sideLabels=777&dates=777" />
+</p>
+
+---
+
+## 📫 如何找到我
+
+- **Email:** mystery0dyl520@gmail.com
+- **Blog:** [mystery0.vip](https://blog.mystery0.vip)
+- **⚡ Fun fact:** 坚持 **Tabs over Spaces** 的代码美学。
