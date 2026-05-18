@@ -9,12 +9,12 @@ Android 开发者 / Go 语言爱好者 / 原生 Android 生态探索者。热衷
 ## 🚀 正在进行与持续维护的项目
 
 ### 📱 Android & Pixel 生态
-- **[Pixel Meter](https://play.google.com/store/apps/details?id=vip.mystery0.pixel.meter)**
-  - 为 Google Pixel 和原生 Android 量身定制的实时网速监控工具。
-- **[Pixel Telo](https://play.google.com/store/apps/details?id=vip.mystery0.pixel.telo)**
-  - 基于 `CallScreeningService` 开发的 Pixel 专属来电过滤与屏蔽工具。
-- **[TurboIMS](https://github.com/Mystery00/TurboIMS)**
-  - 释放 Pixel 潜力：开启 VoLTE、VoWiFi 及其他 IMS 特性。
+- **[Pixel Text](https://github.com/Pixel-Tailor-CN/PixelText)**
+  - 为 Pixel 打造的本地智能短信应用，验证码、账单、快递一眼看清。
+- **[Pixel Telo](https://github.com/Pixel-Tailor-CN/PixelTelo)**
+  - 专为 Pixel 打造的来电识别与拦截应用，本地优先处理，隐私零泄露。
+- **[Pixel Meter](https://github.com/Pixel-Tailor-CN/PixelMeter)**
+  - 专为 Pixel 和原生 Android 设计的精准网速指示器。
 - **[XhuTimetable](https://github.com/Mystery00/XhuTimetable)**
   - 采用现代 UI 架构的高校课表管理应用。
 
