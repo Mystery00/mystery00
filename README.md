@@ -30,27 +30,22 @@
 
 > 为不完美的体验，做精细的缝补。
 
-在 [Pixel-Tailor-CN](https://github.com/Pixel-Tailor-CN) 持续维护一组面向 Pixel 与原生 Android 用户的开源工具，重点关注国内使用场景。
+我维护的 Pixel 与原生 Android 开源工具集，关注国内用户的通话、短信和网速等日常使用体验。
 
-| 项目 | 在解决什么问题 |
-| --- | --- |
-| [TensorIMS](https://github.com/Pixel-Tailor-CN/TensorIMS) | 面向 Tensor 芯片 Pixel 的 IMS 与网络配置工具，管理 VoLTE、VoWiFi 等通话配置。 |
-| [Pixel Text · 原点尺素](https://github.com/Pixel-Tailor-CN/PixelText) | 本地优先的短信应用，把验证码、账单、票务和快递通知整理成清晰的卡片。 |
-| [Pixel Telo](https://github.com/Pixel-Tailor-CN/PixelTelo) | 来电识别与骚扰拦截，结合本地号码库和可选在线查询，融入系统拨号体验。 |
-| [Pixel Meter](https://github.com/Pixel-Tailor-CN/PixelMeter) | 实时网速监控，过滤 VPN 虚拟接口的重复统计，支持通知、实时活动和悬浮窗。 |
-| [Pixel Geo · 原点罗盘](https://github.com/Pixel-Tailor-CN/PixelGeo) | 基于 Kotlin Multiplatform 的罗盘与定位工具，提供真北／磁北切换、坐标与水平仪。 |
-| [Pixel Snooze](https://github.com/Pixel-Tailor-CN/PixelSnooze) | 根据节假日和自定义作息，在休息日自动触发 Google／AOSP 时钟通知中的跳过或关闭操作。 |
+代表作：[TensorIMS](https://github.com/Pixel-Tailor-CN/TensorIMS)（IMS 与网络配置） · [Pixel Text](https://github.com/Pixel-Tailor-CN/PixelText)（本地智能短信） · [Pixel Meter](https://github.com/Pixel-Tailor-CN/PixelMeter)（实时网速）
 
-[项目官网与下载](https://pixel.mystery0.app) · [项目动态](https://t.me/pixel_tailor_cn)
+[查看全部项目](https://github.com/Pixel-Tailor-CN) · [官网与下载](https://pixel.mystery0.app)
 
-## 🧩 其他项目
+## 🧩 精选项目
 
 | 项目 | 简介 |
 | --- | --- |
-| [Telegram 瞬间同步](https://github.com/Mystery00/halo-plugin-telegram-moment) | 将 Telegram 频道或授权私聊同步到 Halo 瞬间的插件，支持相册、编辑同步、删除与重做。 |
-| [telegram-channel-publisher](https://github.com/Mystery00/telegram-channel-publisher) | 使用 Go 编写的 Telegram 内容发布工具，将频道与私聊内容同步到 Halo。 |
-| [XhuTimetable · 西瓜课表](https://github.com/Mystery00/XhuTimetable) | 使用 Compose 构建的高校课表应用，探索 Kotlin Multiplatform 共享代码。 |
+| [XhuTimetable · 西瓜课表](https://github.com/Mystery00/XhuTimetable) | 使用 Compose 构建的高校课表应用，通过 Kotlin Multiplatform 共享代码。 |
+| [Headscale Web](https://github.com/Mystery00/headscale-web) | Headscale 的非官方 Web 管理界面，提供用户、节点、路由与访问策略管理，支持静态文件和 Docker 部署。 |
+| [Telegram 瞬间同步](https://github.com/Mystery00/halo-plugin-telegram-moment) | 将 Telegram 频道或授权私聊同步到 Halo 瞬间，支持图文相册、编辑同步、删除与重做。 |
 | [go-jasypt](https://github.com/Mystery00/go-jasypt) | Jasypt 加解密的 Go 实现，方便与 Java 项目互通。 |
+
+[浏览更多仓库](https://github.com/Mystery00?tab=repositories)
 
 ## 🛠 常用技术与关注方向
 
